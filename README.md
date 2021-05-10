@@ -6,4 +6,4 @@ the sundomains are stored in *.txt
   getDomain.py *.txt
   the result are store in *.domain, import it to awvs and start scan.
  
-3.call 
+3.call call_nessus.py *.domain to start scan by using nessus.
