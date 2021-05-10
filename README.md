@@ -1,4 +1,5 @@
-usage:
+usage:scan subdomains automaticlly.
+
 1.get domains by using subDomainsBrute(https://github.com/lijiejie/subDomainsBrute)
 the sundomains are stored in *.txt 
 
