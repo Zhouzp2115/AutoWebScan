@@ -3,3 +3,7 @@ usage:
 the sundomains are stored in *.txt 
 
 2.get domain,scan_name by using 
+  getDomain.py *.txt
+  the result are store in *.domain, import it to awvs and start scan.
+ 
+3.call 
