@@ -1,2 +1,5 @@
+usage:
+1.get domains by using subDomainsBrute(https://github.com/lijiejie/subDomainsBrute)
+the sundomains are stored in *.txt 
 
-scan multi targets by calling nessus
+2.get domain,scan_name by using 
